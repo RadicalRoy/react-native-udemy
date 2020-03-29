@@ -32,3 +32,15 @@ rn-starter/*.mobileprovision
 rn-starter/*.orig.*
 rn-starter/web-build/
 rn-starter/web-report/
+tracks/node_modules/**/*
+tracks/.expo/*
+tracks/npm-debug.*
+tracks/*.jks
+tracks/*.p8
+tracks/*.p12
+tracks/*.key
+tracks/*.mobileprovision
+tracks/*.orig.*
+tracks/web-build/
+tracks/web-report/
+track-server/node_modules/*
